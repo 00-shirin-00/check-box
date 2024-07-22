@@ -1,0 +1,26 @@
+body{
+    background-color: #687b5c;
+    font-size: 32px;
+    padding: 40px;
+
+}
+
+input[type="checkbox"]+label{
+    color: rgb(43, 54, 54);
+}
+button[type="button"]{
+    border-radius: 5px;
+width: 100px;
+height:30px;
+margin-top: 30px;
+    background-color: #c12889e8;
+}
+p{
+    background-color: #c1c4c2;
+    width: 400px;
+    height: 100px;
+    color: rgb(230, 49, 176);
+    padding: 30px 15px;
+        box-sizing: border-box;
+
+}
