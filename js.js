@@ -10,7 +10,7 @@
         let choose = "";
         for (let input of inputs) {
             if (input.checked == true) {
-                choose += input.value + " ";
+                choose += input.value + " and ";
             }
         }
         p.innerHTML = choose;
